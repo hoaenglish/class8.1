@@ -87,12 +87,24 @@
       "Lớp Anh 9": "Lớp Anh 9.json"
     };
 
-    async function loadData(sheetName) {
-      const url = files[sheetName];
-      const res = await fetch(url);
-      return await res.json();
-    }
-
+	// Sửa hàm loadData để cập nhật json khi mở web mà ko đọc lại cache
+	async function loadData(sheetName) {
+	    const jsonFileName = files[sheetName];
+	    
+	    // 💡 TẠO THAM SỐ NGẪU NHIÊN BẰNG TIMESTAMP CỦA CLIENT
+	    const randomBuster = new Date().getTime(); 
+	    
+	    // Gắn tham số ngẫu nhiên vào URL (vd: Lớp Anh 6.json?v=1678886400000)
+	    const url = `${jsonFileName}?v=${randomBuster}`; 
+	    
+	    const res = await fetch(url);
+	    if (!res.ok) {
+	        console.error("Không tải được file JSON:", res.status);
+	        return { title: "Lỗi tải dữ liệu", students: [] };
+	    }
+	    return await res.json();
+	}
+	
     (async function init() {
       const sheetName = "Lớp Anh 8.1"; // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
       const data = await loadData(sheetName);
@@ -160,4 +172,5 @@
   </script>
 </body>
 </html>
+
 
