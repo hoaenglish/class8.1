@@ -86,13 +86,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9MinhHai&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Loan",
-      "class": "8A9",
-      "fee": 420000,
-      "info": "8A9Loan",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9Loan&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Thái",
       "class": "8A9",
       "fee": 420000,
