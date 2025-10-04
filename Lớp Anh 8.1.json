@@ -84,6 +84,13 @@
       "fee": 340000,
       "info": "8A9TuanHung",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=340000&addInfo=8A9TuanHung&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Khánh Linh",
+      "class": "8A9",
+      "fee": 100000,
+      "info": "8A9KhanhLinh",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=100000&addInfo=8A9KhanhLinh&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
