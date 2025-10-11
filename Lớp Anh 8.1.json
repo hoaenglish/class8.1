@@ -7,13 +7,6 @@
       "fee": 420000,
       "info": "8A9ManhHa",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9ManhHa&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Thái",
-      "class": "8A9",
-      "fee": 420000,
-      "info": "8A9Thai",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9Thai&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
