@@ -16,13 +16,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A1BinhMinh&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Kiều Trang",
-      "class": "8A1",
-      "fee": 360000,
-      "info": "8A1KieuTrang",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A1KieuTrang&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Tiến Dũng",
       "class": "8A2",
       "fee": 420000,
@@ -70,13 +63,6 @@
       "fee": 420000,
       "info": "8A9GiaBao",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9GiaBao&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Quyên",
-      "class": "8A9",
-      "fee": 420000,
-      "info": "8A9Quyen",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9Quyen&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Tùng Dương",
@@ -154,13 +140,6 @@
       "fee": 420000,
       "info": "8A9TuanHung",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9TuanHung&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Thu Thuỷ",
-      "class": "8A9",
-      "fee": 360000,
-      "info": "8A9ThuThuy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A9ThuThuy&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
