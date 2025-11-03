@@ -2,13 +2,6 @@
   "title": "Học phí Lớp Anh 8.1 (10/2025)",
   "students": [
     {
-      "name": "Tuấn Phong",
-      "class": "8A1",
-      "fee": 420000,
-      "info": "8A1TuanPhong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A1TuanPhong&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Bình Minh",
       "class": "8A1",
       "fee": 420000,
@@ -77,13 +70,6 @@
       "fee": 360000,
       "info": "8A9ChauBang",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A9ChauBang&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Minh Hải",
-      "class": "8A9",
-      "fee": 420000,
-      "info": "8A9MinhHai",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9MinhHai&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Tuấn Hưng",
