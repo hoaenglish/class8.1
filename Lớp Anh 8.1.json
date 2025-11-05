@@ -37,13 +37,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9HoangThy&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Tùng Dương",
-      "class": "8A9",
-      "fee": 420000,
-      "info": "8A9TungDuong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9TungDuong&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Khôi Nguyên",
       "class": "8A9",
       "fee": 420000,
