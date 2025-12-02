@@ -23,13 +23,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A1KieuTrang&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Tiến Dũng",
-      "class": "8A2",
-      "fee": 420000,
-      "info": "8A2TienDung",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A2TienDung&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Ngân",
       "class": "8A2",
       "fee": 420000,
