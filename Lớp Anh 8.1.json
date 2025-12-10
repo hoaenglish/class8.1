@@ -49,13 +49,6 @@
       "fee": 420000,
       "info": "8A9Giang",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9Giang&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Lê Thy",
-      "class": "8A9",
-      "fee": 420000,
-      "info": "8A9LeThy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9LeThy&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
