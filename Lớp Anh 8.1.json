@@ -1,13 +1,6 @@
 {
-  "title": "Học phí Lớp Anh 8.1 (12/2025)",
+  "title": "Học phí Lớp Anh 8.1 (11/2025)",
   "students": [
-    {
-      "name": "Tuấn Phong",
-      "class": "8A1",
-      "fee": 480000,
-      "info": "8A1TuanPhong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A1TuanPhong&accountName=CHU%20DUC%20THANH"
-    },
     {
       "name": "Bình Minh",
       "class": "8A1",
@@ -65,13 +58,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9HoangThy&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Gia Bảo",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9GiaBao",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9GiaBao&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Quyên",
       "class": "8A9",
       "fee": 480000,
@@ -91,13 +77,6 @@
       "fee": 480000,
       "info": "8A9KhoiNguyen",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9KhoiNguyen&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Minh Dũng",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9MinhDung",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9MinhDung&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Giang",
@@ -128,13 +107,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9DucQuyen&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Lê Thy",
-      "class": "8A9",
-      "fee": 420000,
-      "info": "8A9LeThy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9LeThy&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Châu Băng",
       "class": "8A9",
       "fee": 480000,
@@ -147,13 +119,6 @@
       "fee": 480000,
       "info": "8A9Phong",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9Phong&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Kim Anh",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9KimAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9KimAnh&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Minh Hải",
