@@ -58,13 +58,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9DucQuyen&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Châu Băng",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9ChauBang",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9ChauBang&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Phong",
       "class": "8A9",
       "fee": 480000,
