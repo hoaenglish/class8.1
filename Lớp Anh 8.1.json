@@ -14,13 +14,6 @@
       "fee": 420000,
       "info": "8A9GiaBao",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A9GiaBao&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Bảo Quyên",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9BaoQuyen",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9BaoQuyen&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
