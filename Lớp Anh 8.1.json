@@ -21,13 +21,6 @@
       "fee": 240000,
       "info": "8A9BaoQuyen",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=8A9BaoQuyen&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Minh Hải",
-      "class": "8A9",
-      "fee": 240000,
-      "info": "8A9MinhHai",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=8A9MinhHai&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
