@@ -2,46 +2,11 @@
   "title": "Học phí Lớp Anh 8.1 (03/2026)",
   "students": [
     {
-      "name": "Kiều Trang",
-      "class": "8A1",
-      "fee": 480000,
-      "info": "8A1KieuTrang",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A1KieuTrang&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Tiến Dũng",
-      "class": "8A2",
-      "fee": 420000,
-      "info": "8A2TienDung",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A2TienDung&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Gia Bảo",
       "class": "8A9",
       "fee": 960000,
       "info": "8A9GiaBao",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=960000&addInfo=8A9GiaBao&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Đức Quyền",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9DucQuyen",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9DucQuyen&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Phong",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9Phong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9Phong&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Thu Thuỷ",
-      "class": "8A9",
-      "fee": 480000,
-      "info": "8A9ThuThuy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=8A9ThuThuy&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
